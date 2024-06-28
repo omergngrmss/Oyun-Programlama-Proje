@@ -16,7 +16,7 @@ Bu oyun kişilerin hafıza, dikkat ve hesap yeteneğini ölçen bir oyundur. İl
 
 
 ## Videolar
- https://github.com/omergngrmss/Oyun-Programlama-Proje/assets/160531709/8b404616-1944-4c6c-aafc-8960811249df
+ https://github.com/omergngrmss/Oyun-Programlama-Proje/assets/160531709/f82c20dd-f099-4bc9-8616-b33dc649e69d
 
 
 ## Ekran Görüntüleri
@@ -44,12 +44,17 @@ Karşımıza 5 adet soru gelecek.Bu 5 sorunun toplam süresi 60 saniyedir.Her do
 ![Ekran görüntüsü 2024-06-06 183220](https://github.com/omergngrmss/Oyun-Programlama-Proje/assets/160531709/c35b9869-622f-4820-9c7a-2f9d91a84b7d)
 4. soruda ilk karşımıza çıkan futbol oyunundaki kalenin(objenin) hangi renkte olduğu soruluyor.(dikkat ve hafıza yeteneği)
 ![Ekran görüntüsü 2024-06-06 183230](https://github.com/omergngrmss/Oyun-Programlama-Proje/assets/160531709/efbc5c09-ba4d-4ee7-8e4b-794a97af6fa8)
-5. ve son soruda futbol oyunundaki 8 toptan sadece 1' inin rengi farklı ve kişiye farklı renkte olan topun kaç numaralı olduğu soruluyor.(dikkat ve hafıza yeteneği)
-![Ekran görüntüsü 2024-06-06 183239](https://github.com/omergngrmss/Oyun-Programlama-Proje/assets/160531709/4aa29b38-0cff-473d-ad76-5f8fc6133e97)
+5. ve son soruda futbol oyunundaki 8 toptan sadece 1' inin rengi farklı ve kişiye farklı renkte olan topun hangi renkte olduğu soruluyor.(dikkat ve hafıza yeteneği)
+![Ekran görüntüsü 2024-06-28 221036](https://github.com/omergngrmss/Oyun-Programlama-Proje/assets/160531709/34d95dc8-e1bb-4980-8f11-c358bde46baf)
 
 #### Son Ekran
 Kişi eğer 30 puan ve üzeri bir puan alırsa quizi başarıyla tamamlamış oluyor.Menü tuşuna basarak da oyunun başlangıç ekranına dönülüyor.
 ![Ekran görüntüsü 2024-06-06 183249](https://github.com/omergngrmss/Oyun-Programlama-Proje/assets/160531709/0f7e2b3c-9737-4042-90ce-86972fe6b753)
+
+
+
+
+
 
 
 
